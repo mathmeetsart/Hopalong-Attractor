@@ -1,4 +1,4 @@
-# Hopalong Attractor
+# Hopalong Attractor(WORK IN PROGRESS)
 
 Welcome to the Hopalong Attractor repository! Explore the mesmerizing world of chaotic dynamics and strange attractors.
 
