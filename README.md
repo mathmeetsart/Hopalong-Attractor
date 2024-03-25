@@ -6,8 +6,6 @@ Welcome to the Hopalong Attractor repository! Explore the mesmerizing world of c
 
 The Hopalong Attractor is a fascinating chaotic system discovered by Barry Martin in the late 1970s. It is a two-dimensional dynamical system that generates beautiful and intricate patterns resembling fractals. The Hopalong Attractor is characterized by its non-linear equations that produce mesmerizing and unpredictable trajectories.
 
-For more information, you can refer to the [Wikipedia page](https://en.wikipedia.org/wiki/Hopalong_attractor).
-
 ## Visual Appeal and Artistic Representation
 
 The intricate and unpredictable patterns produced by the Hopalong Attractor make it visually captivating. Artists and mathematicians alike are drawn to its chaotic nature, using it as inspiration for various forms of artistic expression, including digital art and sculptures.
